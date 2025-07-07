@@ -50,14 +50,3 @@ A role-based Banking Management System (Python + MySQL) with CLI interface. Feat
 ├── LICENSE             # MIT License (for open use)
 └── README.md           # You're reading it 😄
 ```
-
-🧪 How to Run
-1- Install dependencies:
-   bash
-   (pip install mysql.connector,
-    pip install tabulate,
-    pip install random)
-2- Run database setup: 
-   python (database.py)
-3- Run the app:
-   python (front_end.py)
