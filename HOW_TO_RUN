@@ -1,0 +1,10 @@
+## 🧪 How to Run
+
+Follow these steps to set up and run the Banking Management System:
+
+### 1️⃣ Install Required Libraries
+
+Make sure Python is installed, then install the dependencies:
+
+```bash
+pip install mysql-connector-python tabulate
